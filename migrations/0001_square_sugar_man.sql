@@ -1,0 +1,1 @@
+ALTER TABLE "shipments" ALTER COLUMN "entry_exit_date" DROP NOT NULL;

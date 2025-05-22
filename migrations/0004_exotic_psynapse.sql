@@ -1,0 +1,1 @@
+ALTER TABLE "shipments" ADD COLUMN "archived_at" timestamp;

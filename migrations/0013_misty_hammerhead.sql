@@ -1,0 +1,1 @@
+ALTER TABLE "routes" ALTER COLUMN "driver_id" DROP NOT NULL;

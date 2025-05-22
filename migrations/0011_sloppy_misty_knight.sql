@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX IF NOT EXISTS "driver_routes_driverId_routeId_idx" ON "driver_routes" USING btree ("driver_id","route_id");

@@ -1,0 +1,1 @@
+ALTER TABLE "shipment_imports" ALTER COLUMN "shipments" SET DATA TYPE varchar(15)[];
